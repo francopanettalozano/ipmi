@@ -1,6 +1,6 @@
 //tp1 comision 5
 //Panetta Lozano Franco
-
+//legajo: 94806/7
 
 PImage karotte;
 
